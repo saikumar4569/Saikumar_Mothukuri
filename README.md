@@ -76,7 +76,7 @@ Collected, cleaned, and preprocessed survey data — refining 408 raw records in
 
 <p align="left">
   <a href="mailto:mothukurisaikumar4569@gmail.com">Email</a> ·
-  <a href="#">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/saikumar077">LinkedIn</a> ·
   <a href="https://github.com/saikumar_mothukuri">GitHub</a>
 </p>
 
