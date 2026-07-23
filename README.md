@@ -45,6 +45,10 @@
 
 #### 🔹 [Deep Learning for Time Series Prediction — Gas Turbine Systems](#)
 Designed and implemented advanced time-series prediction models (LSTM, BiLSTM, GRU, CNN-LSTM) on large sequential datasets. Preprocessed data, handled outliers/noise, and evaluated performance using MAE, RMSE, MAPE, and R² — comparing accuracy against computational cost.
+#### 🔹 [Retail Sales SQL Analysis](https://github.com/your-username/sql-retail-analysis)
+...
+#### 🔹 [Power BI Sales Dashboard](https://github.com/your-username/powerbi-sales-dashboard)
+...
 `Python` `LSTM` `GRU` `CNN-LSTM` `Time-Series Forecasting`
 
 #### 🔹 [Online Food Ordering Data Analysis](#)
