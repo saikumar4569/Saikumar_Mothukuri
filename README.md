@@ -47,7 +47,8 @@
 Designed and implemented advanced time-series prediction models (LSTM, BiLSTM, GRU, CNN-LSTM) on large sequential datasets. Preprocessed data, handled outliers/noise, and evaluated performance using MAE, RMSE, MAPE, and R² — comparing accuracy against computational cost.
 #### 🔹 [Retail Sales SQL Analysis](https://github.com/your-username/sql-retail-analysis)
 ...
-#### 🔹 [Power BI Sales Dashboard](https://github.com/your-username/powerbi-sales-dashboard)
+#### 🔹 [Power BI Sales Dashboard]
+An interactive Power BI dashboard analyzing 4 years of retail sales data (2022–2025) — tracking revenue, profit, and performance across regions, categories, and customer segments. Modeled after the classic "Superstore" dataset used widely in BI portfolios, generated here with realistic seasonal patterns, discount behavior, and margin variation by category.
 ...
 `Python` `LSTM` `GRU` `CNN-LSTM` `Time-Series Forecasting`
 
